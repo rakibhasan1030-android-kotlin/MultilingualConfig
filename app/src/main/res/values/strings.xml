@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Multilingual Config</string>
+
+    <string name="kotlin">Kotlin</string>
+    <string name="kotlin_overview">Kotlin is an open-source, statically-typed programming language that supports both object-oriented and functional programming.
+Kotlin provides similar syntax and concepts from other languages, including C#, Java, and Scala, among many others.
+Kotlin does not aim to be unique—instead, it draws inspiration from decades of language development.
+It exists in variants that target the JVM (Kotlin\/JVM), JavaScript (Kotlin\/JS), and native code (Kotlin\/Native).\n\n
+
+Kotlin is managed by the Kotlin Foundation, a group created by JetBrains and Google, that is tasked with advancing and continuing development of the language.
+Kotlin is officially supported by Google for Android development, meaning that Android documentation and tooling is designed with Kotlin in mind.\n\n
+
+Certain Android APIs, like Android KTX, are Kotlin-specific, but most are written in Java and can be called from either Java or Kotlin.
+Kotlin\’s interoperability with Java is core to its growth.
+It means that you can call into Java code from Kotlin and vice-versa, leveraging all of your existing Java libraries.
+Kotlin\’s popularity results in a nicer development experience on Android, but development of the Android framework continues with both Kotlin and Java in mind.\n\n
+
+Kotlin\'s interoperability with Java means that you don\’t have to adopt Kotlin all at once.
+You can have projects with both Kotlin and Java code.</string>
+</resources>
